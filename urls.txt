@@ -1,0 +1,10 @@
+http://developer.apple.com/news/rss/news.rss
+http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topsongs/limit=10/xml
+http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topsongs/limit=25/xml
+https://www.apple.com/newsroom/rss-feed.rss
+https://trailers.apple.com/trailers/home/rss/newtrailers.rss
+http://ax.itunes.apple.com/WebObjects/MZStore.woa/wpa/MRSS/featuredalbums/limit=10/rss.xml
+http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/toppaidapplications/limit=25/xml
+http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topMovies/xml
+http://ax.itunes.apple.com/WebObjects/MZStore.woa/wpa/MRSS/newreleases/limit=25/rss.xml
+http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topalbums/limit=25/xml
